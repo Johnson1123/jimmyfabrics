@@ -1,0 +1,22 @@
+@import './Variable.scss';
+.p__text{
+    color: $blackColor;
+    font-family: $primaryFont;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: 900;
+    text-decoration: none;
+}
+.sub__text{
+    font-size: 24px;
+    color: $blackColor;
+    font-weight: 700;
+    line-height: 1.1;
+    text-decoration: none;
+}
+.price__tag{
+    font-weight: 900;
+    font-size: 20px;
+    color: $blackColor;
+}
