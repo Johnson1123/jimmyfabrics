@@ -13,11 +13,11 @@ export default function HomeContact() {
         <SectionTitle text='Contact Us' />
         <div className='app__columns Home__contact'>
             <div className="Home__contact-img-con">
-               <img src='' alt='shop'/>  
+               <img src={Shop} alt='shop'/>  
             </div>
             <div className='app__columns  Home__contact-desc'>
                 <div><span><MdLocationPin /></span><p>No.3 sabo, lagos</p></div>
-                <div><span><BsTelephoneFill /></span><a rel='tel:09076524078'> 09076524078</a></div>
+                <div><span><BsTelephoneFill /></span><a href='tel:09076524078'> 09076524078</a></div>
                 <div><span><MdEmail /></span><a href='mailto:onifadejohnson2014@gmail.com'>Onifadejohnson2014@gmail.com</a></div>
             </div>
         </div>

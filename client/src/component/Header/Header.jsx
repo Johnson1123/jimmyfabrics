@@ -2,7 +2,6 @@ import React from 'react';
 import { FaBars } from 'react-icons/fa';
 import { BsSearch } from 'react-icons/bs'
 import { MdClose } from 'react-icons/md'
-import Favicon from '../../asset';
 import './Header.scss';
 import { Link } from 'react-router-dom'
 import { useState } from 'react';
