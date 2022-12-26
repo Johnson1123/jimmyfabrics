@@ -13,7 +13,7 @@ export default function HomeContact() {
         <SectionTitle text='Contact Us' />
         <div className='app__columns Home__contact'>
             <div className="Home__contact-img-con">
-               <img src={Shop} alt='shop'/>  
+               <img src='' alt='shop'/>  
             </div>
             <div className='app__columns  Home__contact-desc'>
                 <div><span><MdLocationPin /></span><p>No.3 sabo, lagos</p></div>
